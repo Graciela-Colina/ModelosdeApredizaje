@@ -1,7 +1,7 @@
 # ModelosdeApredizaje
 Modelos de Aprendizaje con Normalizacion, Estandarizacion y Balanceo.
 # Proyecto: Predicción de abandono de cliente (El objetivo de este proyecto es clasificar si un cliente abandona o no una entidad bancaria)
-Trabajamos con un csv que contiene una cantidad de datos los cuales fueron limpiados de diferentes maneras para ver como afectaba nuestro modelado y entrenamiento. 
+Trabajamos en Jupyter Notebook con un csv que contiene una cantidad de datos los cuales fueron limpiados de diferentes maneras para ver como afectaba nuestro modelado y entrenamiento. 
 Al final la precision del modelo fue variando dependiento si usabamos una Normalizacion, Estandarizacion o Balanceo, ademas que la permanencia o ausencia de outliers fueron determinantes.
 
 ## Requisitos
