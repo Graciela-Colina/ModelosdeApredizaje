@@ -17,8 +17,8 @@ Para configurar el entorno de desarrollo y las dependencias necesarias, sigue es
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-proyecto.git
-   cd tu-proyecto
+   git clone https://github.com/Graciela-Colina/ModelosdeApredizaje.git  
+   cd ModelosdeApredizaje
    pip install -r requirements.txt
    ```
    
