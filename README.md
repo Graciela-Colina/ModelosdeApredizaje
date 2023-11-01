@@ -10,11 +10,13 @@ Asegúrate de que tienes los siguientes requisitos instalados antes de ejecutar 
 
 - Python 3.x (se recomienda Python 3.7 o superior)
 - Pip (gestor de paquetes de Python)
+- Jupyter Notebook
+
 ## Instalación
 
 Para configurar el entorno de desarrollo y las dependencias necesarias, sigue estos pasos:
 
-1. Clona el repositorio:
+**1. Clona el repositorio:**
 
    ```bash
    git clone https://github.com/Graciela-Colina/ModelosdeApredizaje.git  
